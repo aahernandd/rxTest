@@ -1,0 +1,20 @@
+﻿<repository
+id="477f449c-f96c-4e5c-a1a2-f1774071d1df"
+name="Repository1">
+	<codegen
+	classname="Repository1"
+	namespace="FirstTest">
+	</codegen>
+	<rootfolder
+	capname="host"
+	id="1714a502-ddf6-4fbd-8678-bf953c9e8942"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="False">
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
